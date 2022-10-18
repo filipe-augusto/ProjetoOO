@@ -1,0 +1,15 @@
+C:\Users\faugu\OneDrive\Área de Trabalho\PROGRAMAÇÃO\C#\ORIENTAÇÃO A OBJETOS\ProjetoOO\bin\Debug\net6.0\ProjetoOO.exe
+C:\Users\faugu\OneDrive\Área de Trabalho\PROGRAMAÇÃO\C#\ORIENTAÇÃO A OBJETOS\ProjetoOO\bin\Debug\net6.0\ProjetoOO.deps.json
+C:\Users\faugu\OneDrive\Área de Trabalho\PROGRAMAÇÃO\C#\ORIENTAÇÃO A OBJETOS\ProjetoOO\bin\Debug\net6.0\ProjetoOO.runtimeconfig.json
+C:\Users\faugu\OneDrive\Área de Trabalho\PROGRAMAÇÃO\C#\ORIENTAÇÃO A OBJETOS\ProjetoOO\bin\Debug\net6.0\ProjetoOO.dll
+C:\Users\faugu\OneDrive\Área de Trabalho\PROGRAMAÇÃO\C#\ORIENTAÇÃO A OBJETOS\ProjetoOO\bin\Debug\net6.0\ref\ProjetoOO.dll
+C:\Users\faugu\OneDrive\Área de Trabalho\PROGRAMAÇÃO\C#\ORIENTAÇÃO A OBJETOS\ProjetoOO\bin\Debug\net6.0\ProjetoOO.pdb
+C:\Users\faugu\OneDrive\Área de Trabalho\PROGRAMAÇÃO\C#\ORIENTAÇÃO A OBJETOS\ProjetoOO\obj\Debug\net6.0\ProjetoOO.csproj.AssemblyReference.cache
+C:\Users\faugu\OneDrive\Área de Trabalho\PROGRAMAÇÃO\C#\ORIENTAÇÃO A OBJETOS\ProjetoOO\obj\Debug\net6.0\ProjetoOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faugu\OneDrive\Área de Trabalho\PROGRAMAÇÃO\C#\ORIENTAÇÃO A OBJETOS\ProjetoOO\obj\Debug\net6.0\ProjetoOO.AssemblyInfoInputs.cache
+C:\Users\faugu\OneDrive\Área de Trabalho\PROGRAMAÇÃO\C#\ORIENTAÇÃO A OBJETOS\ProjetoOO\obj\Debug\net6.0\ProjetoOO.AssemblyInfo.cs
+C:\Users\faugu\OneDrive\Área de Trabalho\PROGRAMAÇÃO\C#\ORIENTAÇÃO A OBJETOS\ProjetoOO\obj\Debug\net6.0\ProjetoOO.csproj.CoreCompileInputs.cache
+C:\Users\faugu\OneDrive\Área de Trabalho\PROGRAMAÇÃO\C#\ORIENTAÇÃO A OBJETOS\ProjetoOO\obj\Debug\net6.0\ProjetoOO.dll
+C:\Users\faugu\OneDrive\Área de Trabalho\PROGRAMAÇÃO\C#\ORIENTAÇÃO A OBJETOS\ProjetoOO\obj\Debug\net6.0\ref\ProjetoOO.dll
+C:\Users\faugu\OneDrive\Área de Trabalho\PROGRAMAÇÃO\C#\ORIENTAÇÃO A OBJETOS\ProjetoOO\obj\Debug\net6.0\ProjetoOO.pdb
+C:\Users\faugu\OneDrive\Área de Trabalho\PROGRAMAÇÃO\C#\ORIENTAÇÃO A OBJETOS\ProjetoOO\obj\Debug\net6.0\ProjetoOO.genruntimeconfig.cache
