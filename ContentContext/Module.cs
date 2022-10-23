@@ -1,7 +1,9 @@
+using System;
+using System.Collections.Generic;
 namespace ProjetoOO.ContentContext
 {
 
-    public class Module
+    public class Module : Base
     {
         public Module()
         {

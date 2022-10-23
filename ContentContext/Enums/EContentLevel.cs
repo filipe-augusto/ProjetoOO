@@ -1,10 +1,12 @@
-namespace ProjetoOO.ContentContext{
-    public enum EcontentLevel{
-         Iniciante  =1,
-         Fundamental = 2,
-         Intermediario = 3,
+namespace ProjetoOO.ContentContext
+{
+    public enum EcontentLevel
+    {
+        Beginner = 1,
+        Fundamental = 2,
+        Intermediary = 3,
 
-         Avancado =4
+        Advanced = 4
 
     }
 }
