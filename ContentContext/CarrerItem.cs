@@ -1,5 +1,7 @@
 using System;
 using System.Collections.Generic;
+using ProjetoOO.SharedContext;
+
 namespace ProjetoOO.ContentContext
 {
     public class CarrerItem : Base

@@ -1,3 +1,5 @@
+using ProjetoOO.SharedContext;
+
 namespace ProjetoOO.ContentContext
 {
 

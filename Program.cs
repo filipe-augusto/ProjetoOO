@@ -1,5 +1,6 @@
 ﻿using System;
 using ProjetoOO.ContentContext;
+using ProjetoOO.Subscription;
 
 namespace ProjetoOO
 {
@@ -56,6 +57,11 @@ namespace ProjetoOO
             }
 
 
+            var payPalSubscription = new PaypalSubscription();
+            var student = new Student();
+            student.CreateSubscription(payPalSubscription);
+
+            
             //OLD
             // var course = new Course();
             // course.Level = EcontentLevel.Advanced;

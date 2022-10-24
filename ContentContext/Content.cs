@@ -1,4 +1,6 @@
 using System;
+using ProjetoOO.SharedContext;
+
 namespace ProjetoOO.ContentContext
 {
 
@@ -8,7 +10,7 @@ namespace ProjetoOO.ContentContext
         {
             Title = title;
             Url = url;
-       
+
         }
 
 
